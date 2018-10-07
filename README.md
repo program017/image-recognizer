@@ -1,1 +1,1 @@
-# image-recognizer
+# image-recognizer in python
